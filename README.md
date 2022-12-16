@@ -70,6 +70,7 @@ Jeong은 그를 Room(객실)까지 안내했다.
 ## 🎁 place.lobby.entry
 
 - `CLASS` ***DoorMan***
+  
   - extends Employee
   - `METHOD` ***helloGuestDoorMan*** : 고객을 entry에서 reception까지 안내하는 행위
 
